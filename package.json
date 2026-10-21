@@ -1,0 +1,24 @@
+{
+  "name": "cloudops-demo",
+  "version": "1.0.0",
+  "description": "CloudOps Enterprise DevOps Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agila-webdev/cloudops-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Agila-webdev/cloudops-demo/issues"
+  },
+  "homepage": "https://github.com/Agila-webdev/cloudops-demo#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
